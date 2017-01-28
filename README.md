@@ -19,3 +19,7 @@ The reports are based in the status of the tickets for a team in a Sprint, givin
 # TODO
 
 - [ ] Perform a single API request that returns all required data and perform the filtering locally
+
+# Author
+
+Alejandro Martinez | http://alejandromp.com | [@alexito4](https://twitter.com/alexito4)
