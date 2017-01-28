@@ -1,5 +1,5 @@
 # jirareports
-Swift Playground to generates Sprint reports
+Swift Playground to generate Sprint reports
 
 # Setup
 
